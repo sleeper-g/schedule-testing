@@ -1,0 +1,30 @@
+.cardsList {
+    display: flex;
+    list-style: none;
+}
+.cardBox {
+    height: 50px;
+    width: 70px;
+}
+.main {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 60px 50px;
+}
+
+.formCard {
+    background-color: white;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn {
+    background-color: #449d44;
+    border-color: #398439;
+    border-radius: 10%;
+    padding: 5px;
+    color: #fff;
+}
+.active {
+    border: 3px red solid;
+}
